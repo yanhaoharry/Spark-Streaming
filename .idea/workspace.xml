@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5b506f4-caa3-45a7-9260-3679b46d5d32" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1aW3IqLdkMNrfkVFr5MhWWI5wr6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.settings.ScalaProjectSettingsConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TwitterSentimentScore" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="spark.streaming.twitter.TwitterSentimentScore" />
+      <module name="spark-twitter-stream" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="spark.streaming.twitter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TwitterSentimentScore" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SQLPlugin.ProjectConfiguration">
+    <queries />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="spark-twitter-stream" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="spark-twitter-stream [file:/Users/yanhao/Desktop/spark-twitter-stream/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="spark-twitter-stream-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4705475405000" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="2198739010" />
+        <entry key="$PROJECT_DIR$/project/assembly.sbt" value="3661142816" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="3280644262" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Downloads/spark 九章/LearningScala" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/spark 九章/SparkProject" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/spark 九章/bikeshare/CohortProject" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/spark 九章/lending club/SparkProject" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5b506f4-caa3-45a7-9260-3679b46d5d32" name="Default Changelist" comment="" />
+      <created>1586837445823</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586837445823</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="698" y="290" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1587586849857">
+      <screen x="0" y="23" width="1920" height="989" />
+    </state>
+    <state x="698" y="290" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1920.989@0.23.1920.989" timestamp="1587586849857" />
+    <state x="443" y="300" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1586837517818">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="443" y="300" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.23.1280.709@0.23.1280.709" timestamp="1586837517818" />
+    <state x="479" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1587491665384">
+      <screen x="0" y="23" width="1920" height="989" />
+    </state>
+    <state x="319" y="210" key="com.intellij.ide.util.TipDialog/0.23.1280.709@0.23.1280.709" timestamp="1586837449298" />
+    <state x="479" y="284" key="com.intellij.ide.util.TipDialog/0.23.1920.989@0.23.1920.989" timestamp="1587491665384" />
+  </component>
+</project>

@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/yanhao/Desktop/spark-twitter-stream/src/main/resources/stop-words.dat,/Users/yanhao/Desktop/spark-twitter-stream/target/scala-2.11/classes/stop-words.dat)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/yanhao/Desktop/spark-twitter-stream/src/main/resources/neg-words.dat,/Users/yanhao/Desktop/spark-twitter-stream/target/scala-2.11/classes/neg-words.dat)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/yanhao/Desktop/spark-twitter-stream/src/main/resources/twitter4j.properties,/Users/yanhao/Desktop/spark-twitter-stream/target/scala-2.11/classes/twitter4j.properties)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/yanhao/Desktop/spark-twitter-stream/src/main/resources/pos-words.dat,/Users/yanhao/Desktop/spark-twitter-stream/target/scala-2.11/classes/pos-words.dat)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/yanhao/Desktop/spark-twitter-stream/src/main/resources/log4j.properties,/Users/yanhao/Desktop/spark-twitter-stream/target/scala-2.11/classes/log4j.properties)[0m
